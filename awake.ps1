@@ -9,4 +9,4 @@ while ($true)
   Start-Sleep -Milliseconds 100
   $WShell.sendkeys("{SCROLLLOCK}")
   Start-Sleep -Seconds 240
-  }
+}
